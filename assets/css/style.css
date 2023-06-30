@@ -74,6 +74,16 @@ img {
     z-index: -1;
 }
 
+.hero-logo {
+    width: 30%;
+}
+
+.sticky {
+    position: fixed !important;
+    top: 0 !important;
+    width: 100%;
+}
+
 section {
     padding-top: 120px;
     padding-bottom: 120px;
